@@ -1,5 +1,5 @@
 
-package paquete;
+package snake;
 
 public class Main {
 
